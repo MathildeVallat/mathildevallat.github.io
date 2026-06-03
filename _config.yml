@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Mathilde Vallat"
 title_separator          : "-"
 name                     : &name "Mathilde Vallat"
-description              : &description "Personal website of Mathilde Vallat — Research Trainee at the ECB and incoming M2 APE student at the Paris School of Economics."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Personal website of Mathilde Vallat — Research Consultant at the ECB and Master APE student at the Paris School of Economics."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mathildevallat.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,12 +23,12 @@ repository               : "mathildeVallat/mathildevallat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "VALLAT_Mathilde_photo.jpg"
   name             : "Mathilde Vallat"
   pronouns         : # example: "she/her"  
-  bio              : "Research Trainee, DG Research, European Central Bank. Incoming M2 APE student at the Paris School of Economics."
-  location         : "Frankfurt am Main, Germany"
-  employer         : "European Central Bank"
+  bio              : "Research Consultant, DG Research, European Central Bank<br>Student, Master APE, Paris School of Economics"
+  location         : "Paris, France"
+  employer         : "Paris School of Economics"
   uri              : # URL
   email            : "vallatmathilde@gmail.com" 
 
@@ -125,7 +125,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
