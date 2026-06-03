@@ -9,7 +9,7 @@ Selected media coverage of: [Dry-roasted NUTS: early estimates of the regional i
 
 ## Policy & Institutional Citations
 
-[Second Deputy Governor of the Banque de France](https://www.banque-france.fr/en/governors-interventions/climate-change-already-hurting-our-economies)
+[Agnès Bénassy-Quéré, Banque de France](https://www.banque-france.fr/en/governors-interventions/climate-change-already-hurting-our-economies)
 
 This project was also presented by Sehrish at the Town Hall Brussels (European Parliament) and the European Commission Internal Workshop.
 
