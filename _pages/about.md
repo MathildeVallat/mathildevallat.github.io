@@ -15,6 +15,6 @@ Starting September 2026, I will join the Paris School of Economics as a master's
 
 My research focuses on the micro and macro effects of structural change, with a special focus on inequality and environmental implications. I have over two years of experience in microeconometrics and empirical macro. Now, I am particularly interested in applying the theoretical and modelling skills I developed through coursework to concrete research questions.
 
-Here you can find my [CV](/files/Mathilde_Vallat_CV.pdf).
+Here you can find my [CV](/files/Mathilde_Vallat_CV.pdf) and my [Google Scholar](https://scholar.google.com/citations?user=xY18ZUcAAAAJ&hl=en).
 
 I am happy to share that my first paper "Estimating the Economic Costs of Extreme Weather in Real Time" received a Revise & Resubmit from Nature Communications Earth and Environment.
