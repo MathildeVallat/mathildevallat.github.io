@@ -29,10 +29,44 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h2>Research Assistant Projects</h2>
 
+<style>
+.ra-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  color: #6c757d;
+  font-size: 11px;
+  font-family: inherit;
+  margin-top: 4px;
+}
+.ra-toggle-btn svg {
+  transition: transform 0.2s;
+  width: 12px;
+  height: 12px;
+}
+.ra-toggle-btn[aria-expanded="true"] svg {
+  transform: rotate(180deg);
+}
+.ra-projects-content {
+  margin-top: 8px;
+}
+</style>
+
 <h3>Directorate General Research, European Central Bank</h3>
 
 Supervisors: <a href="https://scholar.google.com/citations?user=mFbACM8AAAAJ&hl=en">Michele Lenza</a>, <a href="https://cepr.org/about/people/ana-lamo">Ana Lamo</a>, <a href="https://sites.google.com/site/laevenl/home">Luc Laeven</a>, <a href="https://chiaraosbat.github.io/about.html">Chiara Osbat</a>
 
+<br>
+<button class="ra-toggle-btn" aria-expanded="false" aria-controls="ecb-projects" onclick="raToggle(this,'ecb-projects')">
+  <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="4 6 8 10 12 6"/></svg>
+  Projects
+</button>
+
+<div id="ecb-projects" class="ra-projects-content" hidden>
 <ul>
   <li>Designing and conducting empirical research on AI and employment.</li>
   <li>Building a dataset of climate indicators weighted by gridded economic activity, used in:
@@ -45,26 +79,51 @@ Supervisors: <a href="https://scholar.google.com/citations?user=mFbACM8AAAAJ&hl=
   <li>Working on a multi-country DSGE model with production networks, with <a href="https://chiaraosbat.github.io/about.html">Chiara Osbat</a>, part of the <a href="https://www.ecb.europa.eu/pub/research-networks/html/champ.en.html">ChaMP Research Network</a>.</li>
   <li>Conducting literature review for a discussion paper on trade policy and working on the CES.</li>
 </ul>
+</div>
 
 <h3>Department of Economics, University of Copenhagen</h3>
 
 Supervisor: <a href="https://sites.google.com/view/jakob-roland-munch">Jakob Roland Munch</a>
 
+<br>
+<button class="ra-toggle-btn" aria-expanded="false" aria-controls="ku-projects" onclick="raToggle(this,'ku-projects')">
+  <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="4 6 8 10 12 6"/></svg>
+  Projects
+</button>
+
+<div id="ku-projects" class="ra-projects-content" hidden>
 <ul>
   <li>Assisting with econometric modelling and estimation: <a href="/files/Globalization and Emissions March 2026.pdf">The Impact of Offshoring and Import Competition on Firm-level Carbon Emissions</a> by <a href="https://researchprofiles.ku.dk/en/persons/jonathan-leisner">Jonathan Leisner</a>, <a href="https://sites.google.com/view/jakob-roland-munch">Jakob Roland Munch</a>, <a href="https://dors.dk/medarbejdere/august-twile-nielsen">August Twile Nielsen</a> and <a href="https://sites.google.com/site/georgschaur/home">Georg Schaur</a> (CA JAERE).</li>
   <li>Datasets: Administrative registers from Statistics Denmark (FIRMSTAT and INDUSTRIAL ENERGY USE SURVEY), EXIOBASE for country-product-year specific emission intensities, Foreign Trade Statistics register and PRODCOM register to measure offshoring and Chinese import competition, BACI by CEPII data for bilateral trade flows.</li>
 </ul>
+</div>
 
 <h3>Center for Economic Behavior and Inequality (CEBI), University of Copenhagen</h3>
 
 Supervisor: <a href="https://sites.google.com/prod/view/sonjasettele/startseite">Sonja Settele</a>
 
+<br>
+<button class="ra-toggle-btn" aria-expanded="false" aria-controls="cebi-projects" onclick="raToggle(this,'cebi-projects')">
+  <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="4 6 8 10 12 6"/></svg>
+  Projects
+</button>
+
+<div id="cebi-projects" class="ra-projects-content" hidden>
 <ul>
   <li><a href="#">Household behavior below the zero lower bound</a>, by <a href="https://sites.google.com/prod/view/sonjasettele/startseite">Sonja Settele</a>, <a href="https://researchprofiles.ku.dk/en/persons/niels-johannesen">Niels Johannesen</a>, <a href="https://sites.google.com/site/asgerlauandersen/">Asger Lau Andersen</a>, <a href="https://sites.google.com/site/johanneswohlfartecon/home">Johannes Wohlfart</a> and <a href="https://researchprofiles.ku.dk/en/persons/jens-br%C3%B8ndum-petersen/">Jens Brøndum Petersen</a></li>
   <li>Child penalties unpacked: The effect of beliefs and preferences on the time allocation of new parents, by <a href="https://sites.google.com/prod/view/sonjasettele/startseite">Sonja Settele</a>, <a href="https://sites.google.com/view/franziskavalder/research">Franziska Valder</a> and <a href="https://www.paulhufe.net/">Paul Hufe</a></li>
   <li><a href="https://www.ifo.de/DocDL/cesifo1_wp12497.pdf">Mental models of high school success</a>, by <a href="https://sites.google.com/prod/view/sonjasettele/startseite">Sonja Settele</a>, <a href="https://sites.google.com/view/theresahuebsch">Theresa Hübsch</a>, <a href="http://www.robertmahlstedt.com/">Robert Mahlstedt</a>, <a href="https://sites.google.com/site/piapinger/home">Pia Pinger</a> and <a href="https://sites.google.com/site/helenewilladsen/home">Helene Willadsen</a></li>
   <li><a href="https://www.econ.ku.dk/cebi/publikationer/working-papers/CEBI_WP_06-26.pdf">Unemployment Narratives</a>, by <a href="https://sites.google.com/prod/view/sonjasettele/startseite">Sonja Settele</a>, <a href="http://www.robertmahlstedt.com/">Robert Mahlstedt</a> and <a href="https://sites.google.com/site/johanneswohlfartecon/home">Johannes Wohlfart</a></li>
 </ul>
+</div>
+
+<script>
+function raToggle(btn, id) {
+  var expanded = btn.getAttribute('aria-expanded') === 'true';
+  btn.setAttribute('aria-expanded', String(!expanded));
+  document.getElementById(id).hidden = expanded;
+}
+</script>
 
 <h2>Coursework Projects</h2>
 
