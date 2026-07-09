@@ -7,9 +7,11 @@ author_profile: true
 
 Selected media coverage of: [Dry-roasted NUTS: early estimates of the regional impact of 2025 extreme weather](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484206), co-authored with [Sehrish Usman](https://sites.google.com/view/sehrishusman/) and [Miles Parker](https://www.ecb.europa.eu/pub/research/authors/profiles/miles-parker.en.html).
 
-## Policy & Institutional Citations
+> ##  Featured Citation
+>
+> - [Paul Krugman](https://paulkrugman.substack.com/p/the-heat-is-on), Nobel laureate in Economics 
+> - [Agnès Bénassy-Quéré](https://www.banque-france.fr/en/governors-interventions/climate-change-already-hurting-our-economies), Second Deputy Governor of the Banque de France
 
-[Agnès Bénassy-Quéré, Banque de France](https://www.banque-france.fr/en/governors-interventions/climate-change-already-hurting-our-economies)
 
 This project was also presented by Sehrish at the Town Hall Brussels (European Parliament) and the European Commission Internal Workshop.
 
