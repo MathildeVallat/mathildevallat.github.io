@@ -17,7 +17,7 @@ This project was also presented by Sehrish at the Town Hall Brussels (European P
 
 ## International Press
 
-- [The Guardian](https://www.theguardian.com/world/2025/sep/15/europes-summer-of-extreme-weather-caused-43bn-of-short-term-losses-analysis-finds)
+- The Guardian: [2025](https://www.theguardian.com/world/2025/sep/15/europes-summer-of-extreme-weather-caused-43bn-of-short-term-losses-analysis-finds), [2026](https://www.theguardian.com/commentisfree/2026/aug/05/europe-rivers-running-dry-catastrophe-danube-rhine)
 - [The New York Times](https://www.nytimes.com/2025/09/16/world/europe/europes-extreme-summer-weather-could-cost-it-billions.html)
 - [POLITICO Europe](https://www.politico.eu/article/climate-change-costing-43-billion-europe-economy-extreme-weather/)
 - [Le Monde](https://www.lemonde.fr/planete/article/2025/09/15/les-evenements-climatiques-extremes-de-l-ete-2025-pourraient-entrainer-126-milliards-d-euros-de-pertes-en-europe_6641215_3244.html)
