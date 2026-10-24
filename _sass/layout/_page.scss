@@ -14,6 +14,12 @@
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
+
+  /* On wide screens the sidebar is fixed and full height: keep short pages
+     (e.g. CV) at least one screen tall so the footer doesn't cover it */
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    min-height: calc(100vh - #{$masthead-height});
+  }
 }
 
 .page {
